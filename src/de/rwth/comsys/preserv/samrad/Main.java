@@ -1,4 +1,4 @@
-package de.rwtha.achen.comsys.preserv;
+package de.rwth.comsys.preserv.samrad;
 
 import java.lang.*;
 import java.io.*;

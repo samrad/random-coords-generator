@@ -1,4 +1,4 @@
-package de.rwtha.achen.comsys.preserv;
+package de.rwth.comsys.preserv.samrad;
 
 /**
  * Created by Sam on 8/7/2014.
